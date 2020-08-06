@@ -11,5 +11,5 @@ You can start the app from the root folder by entering command ***npm run dev***
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-![running app gif](https://drive.google.com/file/d/1Cc6kjj3KRAsmVeXhfEbGY2CdkUxkUMRf/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1Cc6kjj3KRAsmVeXhfEbGY2CdkUxkUMRf/view?usp=sharing" alt="running app gif">
 
