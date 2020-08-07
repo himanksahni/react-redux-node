@@ -11,4 +11,4 @@ You can start the app from the root folder by entering command ***npm run dev***
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-![alt text](https://imgflip.com/gif/4anyd5)
+![alt text]('./assets/video1k.gif')
