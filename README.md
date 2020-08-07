@@ -21,12 +21,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 * You can select an employee from the dropdown menu.<br/><br/>
 
-<!-- ![select employee](assets/select_emp.png) -->
 <img src="/assets/select_emp.png"  width="400" height="300" alt="select employee">
 
 * After selecting the employee you will see the employee window. <br/><br/>
 
-<!-- ![selected employee](assets/selected.png) -->
 <img src="/assets/selected.png"  width="400" height="300" alt="selected employee">
 
 ### `Assign and Removing Surveys`
@@ -45,7 +43,15 @@ survey gets added to ***Survey List***.
 
 You can search a specific survey from the search bar.
 
-<!-- ![selected employee](assets/search.png = 200x100) -->
 <img src="/assets/search.png"  width="400" height="300" alt="search">
 
+### `Dummy Survey and Employee array`
+
+You can check the dummy Surveys and Employee array by using ***Postman*** or
+from your browser by going to <br/>
+
+* [http://localhost:7000/surveys](http://localhost:7000/surveys) for survey array and,
+* [http://localhost:7000/employees](http://localhost:7000/employees) for employee array
+
+<img src="/assets/dummy.png"  width="400" height="300" alt="dummy arrays">
 
