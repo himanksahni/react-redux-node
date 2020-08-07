@@ -53,5 +53,5 @@ from your browser by going to <br/>
 * [http://localhost:7000/surveys](http://localhost:7000/surveys) for survey array and,
 * [http://localhost:7000/employees](http://localhost:7000/employees) for employee array
 
-<img src="/assets/dummy.png"  width="400" height="300" alt="dummy arrays">
+<img src="/assets/dummy.png"  width="500" height="300" alt="dummy arrays">
 
