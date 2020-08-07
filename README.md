@@ -16,6 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 ## Actions
+<br/>
 
 ### `Selet Employee`
 
@@ -26,6 +27,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 * After selecting the employee you will see the employee window. <br/><br/>
 
 <img src="/assets/selected.png"  width="400" height="300" alt="selected employee">
+
+<br/>
 
 ### `Assign and Removing Surveys`
 
@@ -38,13 +41,14 @@ survey gets added to ***Survey List***.
 
 **Note: You cannot remove from Survey List and you cannot assign from Assigned Surveys**
 
-
+<br/>
 ### `Search`
 
 You can search a specific survey from the search bar.
 
 <img src="/assets/search.png"  width="400" height="300" alt="search">
 
+<br/>
 ### `Dummy Survey and Employee array`
 
 You can check the dummy Surveys and Employee array by using ***Postman*** or
