@@ -60,3 +60,20 @@ from your browser by going to <br/>
 
 <img src="/assets/dummy.png"  width="500" height="300" alt="dummy arrays">
 
+<br/>
+
+### `Submit Reponse to Backend`
+
+The updated employee array is sent to the server when ***Done*** button is clicked. <br/>
+The output of the response is printed on the console when the server recieves it.
+
+<img src="/assets/backend.png"  width="500" height="300" alt="backend">
+
+<br/>
+
+### `Mobile Version`
+
+The app is using Bulma as the CSS framework so it's responsive and can be used my mobile <br/>
+phones too.
+
+<img src="/assets/mobile.png"  width="500" height="300" alt="backend">
