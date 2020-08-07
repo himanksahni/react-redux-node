@@ -37,10 +37,8 @@ export const postToBackend = (updatedContent) => (dispatch,getState) =>{
         dispatch(fetchSurveyReq())
         axios.post('http://localhost:7000/update', updatedContent)
         .then(res => {
-            console.log(res) 
             dispatch(fetchSurveyReq())})
         .catch(err =>{ 
-            console.log(err.message)
             dispatch(fetchSurveyErr(err.message))
         })
     }
