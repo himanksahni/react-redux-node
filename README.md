@@ -42,6 +42,7 @@ survey gets added to ***Survey List***.
 **Note: You cannot remove from Survey List and you cannot assign from Assigned Surveys**
 
 <br/>
+
 ### `Search`
 
 You can search a specific survey from the search bar.
