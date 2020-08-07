@@ -19,11 +19,22 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `Selet Employee`
 
-You can select an employee from the dropdown menu.<br/><br/>
+* You can select an employee from the dropdown menu.<br/><br/>
 
 ![select employee](assets/select_emp.png)
 
-After selecting the employee you will see the employee window. <br/><br/>
+* After selecting the employee you will see the employee window. <br/><br/>
 
 ![selected employee](assets/selected.png)
+
+### `Assign and Removing Surveys`
+
+You can assign a survey to ***Assign Survey*** by clicking on <br/>
+assign on Survey List. The assigned survey will get added to the <br/>
+assigned survey table.<br/> <br/>
+
+Similarly, you can remove a survey from Assigned Survey. The removed<br/>
+survey gets added to ***Survey List***.
+
+**Note: You cannot remove from Survey List and you cannot assign from Assigned Surveys**
 
