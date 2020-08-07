@@ -32,8 +32,16 @@ You can assign a survey to ***Assign Survey*** by clicking on
 assign on Survey List. The assigned survey will get added to the
 assigned survey table.<br/> <br/>
 
-Similarly, you can remove a survey from Assigned Survey. The removed<br/>
+Similarly, you can remove a survey from Assigned Survey. The removed
 survey gets added to ***Survey List***.
 
 **Note: You cannot remove from Survey List and you cannot assign from Assigned Surveys**
+
+
+### `Search`
+
+You can search a specific survey from the search bar.
+
+![selected employee](assets/search.png)
+
 
