@@ -18,7 +18,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## Actions
 <br/>
 
-### `Selet Employee`
+### `Select Employee`
 
 * You can select an employee from the dropdown menu.<br/><br/>
 
