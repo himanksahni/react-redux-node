@@ -10,7 +10,7 @@ You can start the app from the root folder by entering command ***npm run dev***
 .<br/> Both node app and react app will run concurrently so you don't have to open two<br/> terminals to run both backend and frontend.
 
 <!-- ![run command](assets/run_command.png)<br/> <br/> -->
-<img src="/assets/run_command.png"  width="400" height="300"> <br/>
+<img src="/assets/run_command.png"  width="400" height="300" alt="run command"> <br/>
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
@@ -22,12 +22,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 * You can select an employee from the dropdown menu.<br/><br/>
 
 <!-- ![select employee](assets/select_emp.png) -->
-<img src="/assets/select_emp"  width="400" height="300">
+<img src="/assets/select_emp.png"  width="400" height="300" alt="select employee">
 
 * After selecting the employee you will see the employee window. <br/><br/>
 
 <!-- ![selected employee](assets/selected.png) -->
-<img src="/assets/selected.png"  width="400" height="300">
+<img src="/assets/selected.png"  width="400" height="300" alt="selected employee">
 
 ### `Assign and Removing Surveys`
 
@@ -46,6 +46,6 @@ survey gets added to ***Survey List***.
 You can search a specific survey from the search bar.
 
 <!-- ![selected employee](assets/search.png = 200x100) -->
-<img src="/assets/search.png"  width="400" height="300">
+<img src="/assets/search.png"  width="400" height="300" alt="search">
 
 
