@@ -19,11 +19,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `Selet Employee`
 
-You can select an employee from the dropdown menu.
+You can select an employee from the dropdown menu.<br/><br/>
 
-![select employee](assets/select_employee.png)
+![select employee](assets/select_emp.png)
 
-After selecting the employee you will see the employee window
+After selecting the employee you will see the employee window. <br/><br/>
 
 ![selected employee](assets/selected.png)
 
