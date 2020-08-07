@@ -13,7 +13,6 @@ You can start the app from the root folder by entering command ***npm run dev***
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-![main page](assets/main_page.png)
 
 ## Actions
 
@@ -29,8 +28,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `Assign and Removing Surveys`
 
-You can assign a survey to ***Assign Survey*** by clicking on <br/>
-assign on Survey List. The assigned survey will get added to the <br/>
+You can assign a survey to ***Assign Survey*** by clicking on
+assign on Survey List. The assigned survey will get added to the
 assigned survey table.<br/> <br/>
 
 Similarly, you can remove a survey from Assigned Survey. The removed<br/>
