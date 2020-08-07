@@ -43,6 +43,6 @@ survey gets added to ***Survey List***.
 You can search a specific survey from the search bar.
 
 <!-- ![selected employee](assets/search.png = 200x100) -->
-<img src="/assets/search.png"  width="500" height="300">
+<img src="/assets/search.png"  width="400" height="300">
 
 
