@@ -64,8 +64,8 @@ from your browser by going to <br/>
 
 ### `Submit Reponse to Backend`
 
-The updated employee array is sent to the server when ***Done*** button is clicked. <br/>
-The output of the response is printed on the console when the server recieves it.
+The updated employee array is sent to the server when ***Done*** button is clicked.
+The output of <br/> the response is printed on the console when the server recieves it.
 
 <img src="/assets/backend.png"  width="500" height="300" alt="backend">
 
